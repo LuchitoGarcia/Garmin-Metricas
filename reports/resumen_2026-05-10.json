@@ -1,0 +1,127 @@
+{
+  "date": "2026-05-10",
+  "user": {
+    "name": "Luis",
+    "unit_system": "metric"
+  },
+  "daily": {
+    "steps": 8571,
+    "steps_goal": 12180,
+    "calories_total": 2423.0,
+    "calories_active": 565.0,
+    "calories_bmr": 1858.0,
+    "floors_up": 12.1542,
+    "intensity_min_moderate": 4,
+    "intensity_min_vigorous": 3,
+    "resting_hr": 60
+  },
+  "sleep": {
+    "score": 55,
+    "qualifier": "POOR",
+    "total_min": 351,
+    "deep_min": 116,
+    "light_min": 203,
+    "rem_min": 32,
+    "awake_min": 71,
+    "avg_resp": null,
+    "avg_spo2": null
+  },
+  "heart_rate": {
+    "resting": 60,
+    "max_today": 155,
+    "min_today": 53
+  },
+  "stress": {
+    "avg": 40,
+    "max": 98,
+    "rest_pct": null,
+    "low_pct": null,
+    "medium_pct": null,
+    "high_pct": null
+  },
+  "body_battery": {
+    "high": 29,
+    "low": 10
+  },
+  "hrv": {
+    "last_night_avg": 51,
+    "last_night_5min_high": 83,
+    "weekly_avg": 56,
+    "status": "UNBALANCED",
+    "baseline_low": 46,
+    "baseline_balanced_low": 59,
+    "baseline_balanced_high": 157
+  },
+  "training": {
+    "status": {
+      "3494787958": {
+        "calendarDate": "2026-05-10",
+        "sinceDate": "2026-05-08",
+        "weeklyTrainingLoad": null,
+        "trainingStatus": 1,
+        "timestamp": 1778437636000,
+        "deviceId": 3494787958,
+        "loadTunnelMin": null,
+        "loadTunnelMax": null,
+        "loadLevelTrend": null,
+        "sport": "RUNNING",
+        "subSport": "GENERIC",
+        "fitnessTrendSport": "RUNNING",
+        "fitnessTrend": 1,
+        "trainingStatusFeedbackPhrase": "DETRAINING",
+        "trainingPaused": false,
+        "acuteTrainingLoadDTO": {
+          "acwrPercent": 8,
+          "acwrStatus": "LOW",
+          "acwrStatusFeedback": "FEEDBACK_1",
+          "dailyTrainingLoadAcute": 46,
+          "maxTrainingLoadChronic": 264.0,
+          "minTrainingLoadChronic": 140.8,
+          "dailyTrainingLoadChronic": 176,
+          "dailyAcuteChronicWorkloadRatio": 0.2
+        },
+        "primaryTrainingDevice": true
+      }
+    },
+    "load_focus": {
+      "3494787958": {
+        "calendarDate": "2026-05-10",
+        "deviceId": 3494787958,
+        "monthlyLoadAerobicLow": 60.141983,
+        "monthlyLoadAerobicHigh": 127.903564,
+        "monthlyLoadAnaerobic": 0.0,
+        "monthlyLoadAerobicLowTargetMin": 140,
+        "monthlyLoadAerobicLowTargetMax": 352,
+        "monthlyLoadAerobicHighTargetMin": 246,
+        "monthlyLoadAerobicHighTargetMax": 457,
+        "monthlyLoadAnaerobicTargetMin": 0,
+        "monthlyLoadAnaerobicTargetMax": 211,
+        "trainingBalanceFeedbackPhrase": "BELOW_TARGETS",
+        "primaryTrainingDevice": true
+      }
+    },
+    "readiness_score": 31,
+    "readiness_level": "LOW",
+    "vo2max": null
+  },
+  "last_14_days": {
+    "n_activities": 1,
+    "total_distance_km": 5.09,
+    "total_duration_h": 0.56,
+    "activities": [
+      {
+        "name": "Champaign Carrera",
+        "type": "running",
+        "start": "2026-05-06 18:28:37",
+        "duration_s": 2011.916015625,
+        "distance_m": 5091.490234375,
+        "avg_hr": 163.0,
+        "max_hr": 176.0,
+        "calories": 403.0,
+        "training_effect": 3.0,
+        "anaerobic_te": 0.0,
+        "training_load": 60.14198303222656
+      }
+    ]
+  }
+}
